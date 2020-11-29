@@ -18,6 +18,7 @@ body{
     border-radius: 50%;
     position: relative;
     background-color: #74b9ff;
+    /* background-color: #c6b2ce; */
 }
 .number{
     position: absolute;
